@@ -2,8 +2,8 @@
 Here I collect GitHub Action workflows for various projects and use cases.
 
 # Table of content
- 1. [Web](#web)
-   1.1 [Electron] (#electron)
+1. [Web](#web)
+    1. [Electron](#electron)
 
 -----
 
