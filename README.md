@@ -1,9 +1,16 @@
 # GitHub-Actions-collection
 Here I collect GitHub Action workflows for various projects and use cases.
 
+# Table of content
+ 1. [Web](#web)
+   1.1 [Electron] (#electron)
 
+-----
 
-### Electron
+# Web
+All web related workflows (fullstack, front-end, etc.)
+
+## Electron
 **Electron to GitHub Releases and Website to GitHub Pages**
 
 I use this workflow for Vue.js based [Anno-1800-Calculator](https://github.com/suhrmann/Anno-1800-Calculator). This project has no tests. 
